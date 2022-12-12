@@ -8,7 +8,7 @@ Hey there! :wave:
 </a>
 </br>
 <br>
-Hi, i'm Leehaney George, A personate web developer and a Mechatronic engineer from Kenya.
+Hi, i'm Leehaney George, A passionate web developer and a Mechatronic engineer from Kenya.
 i take great care in the experience, architecture, and code quality of the things I build.
 
 I am an open-source enthusiast, I learned a lot from the open-source community and i love how collaboration and knowledge sharing happens through open-source.
