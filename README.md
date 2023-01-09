@@ -33,4 +33,5 @@ My online portfolio can be found [here](https://leehaney254.github.io/)
 
 ## Certificates & Licenses
 [<img alt="bagde" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/62774143" />](https://www.credential.net/5539053a-9311-4051-a86f-16e563785bd6)
+[<img alt="bagde" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/65926299" />](https://www.credential.net/bd2a9774-55a7-427f-b19a-0a3f5fa4cb76#gs.mocltf)
 
