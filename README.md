@@ -6,7 +6,7 @@
 <a href="https://twitter.com/Lee06785586" rel="nofollow">
   <img align="left" alt="Leehaney Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
 </a>
-<a href="[https://www.linkedin.com/in/leehaney-george-0a4a51178/](https://www.linkedin.com/in/leehaney-george/)" rel="nofollow">
+<a href="https://www.linkedin.com/in/leehaney-george/" rel="nofollow">
   <img align="left" alt="Leehaney LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 </a>
 </br>
