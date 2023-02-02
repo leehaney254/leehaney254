@@ -1,6 +1,6 @@
 ## <p align="center">Hey there!:wave:, I'm Leehaney</p>
 <p align="center"><b>A full-stack web developer and a Mechatronics Engineer from Kenya</b></p>
-<p align="center">I have a great passion for learning languages, frameworks, and new technologies. More so, I love sharing knowledge with people and connecting them through websites. I take great care in the experience, architecture, and code quality of the things I build.</p>
+<p align="center">I have a great passion for learning languages, frameworks, and new technologies. More so, I love sharing knowledge with people and connecting with them through websites. I take great care in the experience, architecture, and code quality of the things I build.</p>
 
 ## Reach me on
 <a href="https://twitter.com/Lee06785586" rel="nofollow">
