@@ -2,6 +2,8 @@
 <p align="center"><b>A full-stack web developer and a Mechatronics Engineer from Kenya</b></p>
 <p align="center">I have a great passion for learning languages, frameworks, and new technologies. More so, I love sharing knowledge with people and connecting with them through websites. I take great care in the experience, architecture, and code quality of the things I build.</p>
 
+[![Profile Visitor](https://komarev.com/ghpvc/?username=leehaney254&color=brightgreen)](https://github.com/leehaney254)
+
 ## Reach me on
 <a href="https://twitter.com/Lee06785586" rel="nofollow">
   <img align="left" alt="Leehaney Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
